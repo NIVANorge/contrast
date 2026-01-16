@@ -1,19 +1,24 @@
-# <Dataset title>
+# Metadata for [Dataset title] <? Replace with dataset title ?>
 
-**Project:** CONTRAST  
-**EU funding:** HORIZON.2.6 - Food, Bioeconomy Natural Resources, Agriculture and Environment, Grant Agreement No. 101135037  
-**Zenodo DOI:** <MAIN DOI. Get DOI before uploading this file to Zenodo>
+### Access the data via EMODnet: [EMODnet dataset URL]
+
+- **Project:** CONTRAST  
+- **EU funding:** HORIZON.2.6 - Food, Bioeconomy Natural Resources, Agriculture and Environment, Grant Agreement No. 101135037 
+- **Project DOI:** [10.3030/101135037](https://cordis.europa.eu/project/id/101135037)
+- **Zenodo DOI:** [MAIN DOI]  <? Get DOI before uploading this file to Zenodo. Do not change it for new versions ?>
+
 
 ---
 
 ## What is this?
 
-This Zenodo record provides **basic metadata and a persistent DOI** for the dataset **<Dataset title>** produced within the **<Project acronym>** project.
+This Zenodo record provides basic metadata and a persistent DOI for the dataset [Dataset title]  <? Replace with dataset title ?>
+, produced within the CONTRAST project.
 
 The **authoritative and up-to-date dataset is hosted and maintained by EMODnet**.
 
-**Access the data via EMODnet:**  
-<EMODnet dataset URL>
+
+
 
 ---
 
@@ -30,20 +35,21 @@ The **authoritative and up-to-date dataset is hosted and maintained by EMODnet**
 
 Please cite this dataset as:
 
-> <Author(s)> (<Year>). *<Dataset title>*. Zenodo. https://doi.org/<DOI>
+[Author(s)] ([Year]). *[Dataset title]*. Zenodo. https://doi.org/[DOI]  <? Do not change the title for new versions ?>
 
 ---
 
 ## License
 
-The dataset is released under the **<License name>** license, consistent with the EMODnet distribution license.
+The dataset is released under the **[License name]**  <? Replace with license name ?>
+ license, consistent with the EMODnet distribution license.
 
 ---
 
 ## Contact
 
-For questions:
-- <Name or role>
-- <ORCID>
-- <Institution>
-- <Contact email or project website>
+For questions:  <? Replace with relevant information. This is a suggestion feel free to add more/less information ?>
+- [Name or role]
+- [ORCID]
+- [Institution]
+- [Contact email]
